@@ -1,0 +1,4 @@
+-----------------------------
+The total number of months is: 86
+The total profit and loss is: 38382578.0
+-----------------------------
